@@ -259,23 +259,23 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: false
-  owner:
-  repo:
+  enable: true
+  owner: JokerLJZ
+  repo: JokerLJZ.github.io
   oauth:
-    clientId:
-    clientSecret:
-  admin:
+    clientId: af20c00167b672baaed1
+    clientSecret: d8e45022a3ba132813e7246e6deaa9fc7618f453
+  admin: ["JokerLJZ"]
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
 gitment:
   enable: false
-  owner:
+  owner: 
   repo:
   oauth:
-    clientId:
-    clientSecret:
+    clientId: 
+    clientSecret: 
 
 # disqus config, default disabled
 # Disqus评论模块的配置，默认为不激活
@@ -440,8 +440,8 @@ daovoice:
 
 # Tidio online contact
 tidio:
-  enable: false
-  public_key:
+  enable: true
+  public_key: barvq1d5n4djkzy3mbcvzbwshpsifwyo
 
 #背景canvas-nest
 canvas_nest:
