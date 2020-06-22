@@ -115,8 +115,8 @@ recommend:
 
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
-favicon: https://raw.githubusercontent.com/JokerLJZ/Image/master/logo.png
-logo: https://raw.githubusercontent.com/JokerLJZ/Image/master/logo.png
+favicon: http://qiniu.jokerliu.top/logo.png
+logo: http://qiniu.jokerliu.top/logo.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -161,8 +161,8 @@ code:
 reward:
   enable: true
   title: 你的赏识是我前进的动力
-  wechat: https://raw.githubusercontent.com/JokerLJZ/Image/master/wechat.jpg
-  alipay: https://raw.githubusercontent.com/JokerLJZ/Image/master/alipay.jpg
+  wechat: http://qiniu.jokerliu.top/wechat.jpg
+  alipay: http://qiniu.jokerliu.top/alipay.jpg
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
@@ -202,7 +202,7 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: https://raw.githubusercontent.com/JokerLJZ/Image/master/avatar.jpg
+  avatar: http://qiniu.jokerliu.top/avatar.jpg
   career: Project Manager with coding skill
   introduction: 欢迎来到火柴人的Blog
 
@@ -249,9 +249,9 @@ mySkills:
 myGallery:
   enable: true
   data:
-    - https://raw.githubusercontent.com/JokerLJZ/Image/master/路人女主-1.jpg
-    - https://raw.githubusercontent.com/JokerLJZ/Image/master/haruhi_suzumiya_characters_anime_main_characters_93225_1920x1200.jpg
-    - https://raw.githubusercontent.com/JokerLJZ/Image/master/k-on_girl_many_different_style_87217_1920x1200.jpg
+    - http://qiniu.jokerliu.top/路人女主-1.jpg
+    - http://qiniu.jokerliu.top/haruhi_suzumiya_characters_anime_main_characters_93225_1920x1200.jpg
+    - http://qiniu.jokerliu.top/k-on_girl_many_different_style_87217_1920x1200.jpg
 
 # Whether to display post-calender in the `archive` page
 # 设置在归档页面中是否显示'文章日历'控件
@@ -386,15 +386,15 @@ libs:
 # The post featured images that needs to be displayed when there is no image.
 # 无文章特色图片时需要显示的文章特色图片.
 featureImages:
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/0.jpg
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/1.jpg
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/2.jpg
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/3.jpg
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/4.jpg
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/5.jpg
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/6.jpg
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/7.jpg
-- https://raw.githubusercontent.com/JokerLJZ/Image/master/8.jpg
+- http://qiniu.jokerliu.top/0.jpg
+- http://qiniu.jokerliu.top/1.jpg
+- http://qiniu.jokerliu.top/2.jpg
+- http://qiniu.jokerliu.top/3.jpg
+- http://qiniu.jokerliu.top/4.jpg
+- http://qiniu.jokerliu.top/5.jpg
+- http://qiniu.jokerliu.top/6.jpg
+- http://qiniu.jokerliu.top/7.jpg
+- http://qiniu.jokerliu.top/8.jpg
 - https://raw.githubusercontent.com/JokerLJZ/Image/master/9.jpg
 - https://raw.githubusercontent.com/JokerLJZ/Image/master/10.jpg
 - https://raw.githubusercontent.com/JokerLJZ/Image/master/11.jpg
