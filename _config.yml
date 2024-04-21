@@ -72,13 +72,13 @@ dream:
 # Whether to display the musics.
 # 是否在首页显示音乐.
 music:
-  enable: true
+  enable: false
   title: #非吸底模式有效
     enable: true
     show: 听听音乐
   server: tencent #require	music platform: netease, tencent, kugou, xiami, baidu
   type: playlist	#require song, playlist, album, search, artist
-  id: 7441328554 #503838841     #require	song id / playlist id / album id / search keyword
+  id: 8117779391 #503838841     #require	song id / playlist id / album id / search keyword
   autoHide: true    # hide automaticaly
   fixed: true       # 开启吸底模式
   autoplay: true # 是否自动播放
