@@ -79,7 +79,7 @@ dream:
 # Whether to display the musics.
 # 是否在首页显示音乐.
 music:
-  enable: false
+  enable: true
   title: #非吸底模式有效
     enable: true
     show: 听听音乐
@@ -100,7 +100,7 @@ music:
 # Whether to display the musics.
 # 单独的音乐页面.
 musics:
-  enable: true
+  enable: false
   title:          #非吸底模式有效
     enable: true
     show: 听听音乐
@@ -182,7 +182,7 @@ toc:
 # 代码块相关
 code:
   lang: true # 代码块是否显示名称
-  copy: true # 代码块是否可复制
+  copy: false # 代码块是否可复制
   shrink: true # 代码块是否可以收缩
   break: false # 代码是否折行
 
@@ -637,7 +637,7 @@ instantpage:
 banner:
   enable: false
   # 开启随机 featureimages 图片
-  random: true
+  random: false
 
 # 中文繁简转换开关
 # 显示在底部 footer 栏
