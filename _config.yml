@@ -635,7 +635,7 @@ instantpage:
 # banner 是否每日切换.
 # 若为 false, 则 banner 默认为 /medias/banner/0.jpg
 banner:
-  enable: true
+  enable: false
   # 开启随机 featureimages 图片
   random: true
 
@@ -664,8 +664,8 @@ jsDelivr:
   
 # 网站背景图
 background:
-  enable: false
-  url: "https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/medias/background.jpg"
+  enable: true
+  url: "http://qiniu.jokerliu.top/1024020.jpg"
 
 # 说说 https://artitalk.js.org/
 artitalk:
