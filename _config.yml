@@ -100,13 +100,13 @@ music:
 # Whether to display the musics.
 # 单独的音乐页面.
 musics:
-  enable: false
+  enable: true
   title:          #非吸底模式有效
     enable: true
     show: 听听音乐
   server: tencent   #require music platform: netease, tencent, kugou, xiami, baidu
   type: playlist    #require song, playlist, album, search, artist
-  id: 1776127550     #require song id / playlist id / album id / search keyword
+  id: 8117779391     #require song id / playlist id / album id / search keyword
   fixed: false      # 开启吸底模式
   autoplay: true   # 是否自动播放
   theme: '#42b983'
@@ -144,8 +144,8 @@ recommend:
 
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
-favicon: http://qiniu.jokerliu.top/logo.png
-logo: http://qiniu.jokerliu.top/logo.png
+favicon: http://qiniu.jokerliu.top/Logo/svgexport-59.png
+logo: http://qiniu.jokerliu.top/Logo/svgexport-59.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -665,7 +665,7 @@ jsDelivr:
 # 网站背景图
 background:
   enable: true
-  url: "http://qiniu.jokerliu.top/1024020.jpg"
+  url: "http://qiniu.jokerliu.top/Background/pexels-nietjuh-776632.jpg"
 
 # 说说 https://artitalk.js.org/
 artitalk:
